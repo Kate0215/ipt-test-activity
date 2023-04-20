@@ -2,6 +2,8 @@
 
 int main() {
    // printf() displays the string inside quotation
+   printf("Hello, Sis Kate");
+   printf("Hello Sis Kate, Im Gelie");
    printf("Hello, World!");
    printf("Hi Kate, it's me Nova");
    printf("Im Sir!");
