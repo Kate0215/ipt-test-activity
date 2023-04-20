@@ -7,6 +7,7 @@ int main() {
    printf("Im Sir!");
    printf("I'm Crits, also known as Oliver");
    printf("I'm Ibe, also known as Gov");
+   printf("Hi Kyutie Kate, I'm Roxie");
 
    return 0;
 }
